@@ -1,0 +1,7 @@
+# 本机系统自动生成的缓存文件
+.DS_Store
+Thumbs.db
+
+# 只留在自己电脑上的私密草稿，不要提交到公开仓库
+*.local.md
+private/
